@@ -1,5 +1,6 @@
-# self_training
-self Training and propagating one nearest neighbor
+# Semi-Supervised Learning : Self-Training
+Self Training and propagating one nearest neighbor
+(강필성 교수님 Business Anlaytics 수업 일환)
 
 ### Requirements
 python == 3.6
